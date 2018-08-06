@@ -13,4 +13,4 @@ Version 1.1:
 
 
 
-NOTE: Runs on Python 3.7.0a4
+NOTE: Runs with Python 3.7.0a4
